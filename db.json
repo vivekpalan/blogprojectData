@@ -1,0 +1,120 @@
+{
+    "blogs": [
+      {
+        "id": "102",
+        "img": "https://images.pexels.com/photos/15615835/pexels-photo-15615835/free-photo-of-lake-of-lights.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "alt": "mountain",
+        "date": 23,
+        "month": "June",
+        "title": "Python Programming",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet deleniti minus perferendis, vel tenetur exercitationem voluptatum beatae itaque ad consectetur id consequatur in nihil recusandae? ",
+        "contentType": "Tech",
+        "contentColor": "lime",
+        "author": "Venom"
+      },
+      {
+        "id": "103",
+        "img": "Images/nature1.jpg",
+        "alt": "nature1",
+        "date": 24,
+        "month": "July",
+        "title": "Electricity",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet deleniti minus perferendis, vel tenetur exercitationem voluptatum beatae itaque ad consectetur id consequatur in nihil recusandae? ",
+        "contentType": "Physics",
+        "contentColor": "tomato",
+        "author": "Luigi"
+      },
+      {
+        "id": "104",
+        "img": "Images/nature2.jpg",
+        "alt": "nature2",
+        "date": 4,
+        "month": "August",
+        "title": "One with nature",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet deleniti minus perferendis, vel tenetur exercitationem voluptatum beatae itaque ad consectetur id consequatur in nihil recusandae? ",
+        "contentType": "Mindfulness",
+        "contentColor": "lightblue",
+        "author": "Mahesh"
+      },
+      {
+        "id": "105",
+        "img": "Images/nature4.jpg",
+        "alt": "nature4",
+        "date": 11,
+        "month": "September",
+        "title": "Nature",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet deleniti minus perferendis, vel tenetur exercitationem voluptatum beatae itaque ad consectetur id consequatur in nihil recusandae? ",
+        "contentType": "Mindfulness",
+        "contentColor": "lightblue",
+        "author": "Sofia"
+      },
+      {
+        "id": "106",
+        "img": "Images/nature3.jpg",
+        "alt": "nature3",
+        "date": 19,
+        "month": "August",
+        "title": "Meditation",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet deleniti minus perferendis, vel tenetur exercitationem voluptatum beatae itaque ad consectetur id consequatur in nihil recusandae? ",
+        "contentType": "Mindfulness",
+        "contentColor": "lightblue",
+        "author": "Alex"
+      },
+      {
+        "id": "107",
+        "img": "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "alt": "learning",
+        "date": 21,
+        "month": "August",
+        "title": "How to read faster",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet deleniti minus perferendis, vel tenetur exercitationem voluptatum beatae itaque ad consectetur id consequatur in nihil recusandae? ",
+        "contentType": "Learning",
+        "contentColor": "orange",
+        "author": "Andrew"
+      },
+      {
+        "id": "108",
+        "img": "https://images.pexels.com/photos/301920/pexels-photo-301920.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "alt": "learning",
+        "date": 12,
+        "month": "November",
+        "title": "How to study for exam",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet deleniti minus perferendis, vel tenetur exercitationem voluptatum beatae itaque ad consectetur id consequatur in nihil recusandae? ",
+        "contentType": "Learning",
+        "contentColor": "orange",
+        "author": "Andrew"
+      },
+      {
+        "id": "109",
+        "img": "https://images.pexels.com/photos/949126/pexels-photo-949126.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "alt": "gym",
+        "date": 22,
+        "month": "August",
+        "title": "Lean bulking",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet deleniti minus perferendis, vel tenetur exercitationem voluptatum beatae itaque ad consectetur id consequatur in nihil recusandae? ",
+        "contentType": "Fitness",
+        "contentColor": "#222",
+        "author": "Mark"
+      },
+      {
+        "id": "a966",
+        "text": "Reading",
+        "content": "Reading, especially starting at a young age, expands your knowledge horizons. In fact, children’s books expose kids to 50% more words than television does. The vocabulary they learn while reading often results in higher scores on both reading and general knowledge tests. Better reading skills in children can also lead to higher intelligence as adults.\n\n \n\nReading improves your brain power.\n\nJust like hitting the gym exercises your muscles, reading exercises your brain. Reading frequently helps slow down the memory-decline process as you age and helps keep your mind sharp. Avid readers can also be up to 2.5 times less likely to develop Alzheimer’s disease than those who participate in less brain-stimulating activities.\n\n \n\nReading can also enhance your short-term memory.\n\nThink about all the information you take in when you read a book. You’re learning new characters’ names, plot lines and words with every turn of a page. The more you read, the better your brain gets at storing fresh information. So keep on reading, and you’ll be able to stop flipping back to old pages.\n\n \n\nReading can help with depression and stress.\n\nA study of depressed patients in a mental ward showed a positive improvement in patients when they read aloud. They reported feeling better with a more positive outlook. Self-help books are best for those with more severe cases of depression, as books are a low-intensity form of intervention. Reading has also been found to reduce stress by nearly 68%, according to researchers.",
+        "author": "Venom",
+        "date": "1",
+        "month": "Sept",
+        "category": "Learning",
+        "img": "https://images.pexels.com/photos/1031588/pexels-photo-1031588.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "id": "ace2",
+        "text": "How to code for beginners",
+        "content": "To learn coding you need to have some basic concepts cleared. Concepts such as Variables, datatypes, functions, conditions, loops etc. After that you can move on to learning some code concepts even choose your favorite programming language",
+        "author": "Venom",
+        "date": "12",
+        "month": "Oct",
+        "category": "",
+        "img": "https://images.pexels.com/photos/270366/pexels-photo-270366.jpeg?auto=compress&cs=tinysrgb&w=600"
+      }
+    ]
+  }
